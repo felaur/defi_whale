@@ -34,7 +34,7 @@
     "@nestjs/cli": "^7.6.0",
     "@nestjs/schematics": "^7.3.0",
     "@nestjs/testing": "^7.6.15",
-    "@types/cron": "^1.7.2",
+    "@types/cron": "^2.4.3",
     "@types/jest": "^26.0.22",
     "@types/lossless-json": "^1.0.0",
     "@types/node": "^14.14.36",
